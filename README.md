@@ -1,60 +1,60 @@
 # Devise AI 🚀
 
-**Devise AI** — это мультифункциональная AI-платформа, объединяющая ключевые инструменты для разработчиков, дизайнеров и обычных пользователей. Проект сочетает в себе AI-чат, менторские ассистенты, no-code генератор интерфейсов и кастомную систему взаимодействия с ИИ.
+**Devise AI** is a multifunctional AI-powered platform that brings together essential tools for developers, designers, and everyday users. It combines a powerful chat interface, mentor assistants, no-code UI generation, and a future internal ecosystem — all in one clean, intuitive experience.
 
-> Миссия — дать пользователю мощный, удобный и универсальный AI-интерфейс в одном месте.
+> The goal: to make AI accessible, practical, and deeply integrated into real workflows.
 
 ---
 
-## ⚙️ Стек
+## ⚙️ Tech Stack
 
 - **Vue 3**, **Vite**, **Pinia**, **Vue Router**
 - **Firebase** (Auth, Firestore, Hosting)
-- **OpenAI API** (GPT интеграция)
+- **OpenAI API** (GPT integration)
 - **Tailwind CSS**
-- **Vue Flow** (визуализация карты целей)
+- **Vue Flow** (goal roadmap visualization)
 - **JavaScript (ES6+)**
 
 ---
 
-## 🔑 Основной функционал
+## 🔑 Core Features
 
-### ✅ Уже реализовано:
-- 📚 **AI-чат** с анимацией печати, markdown, подсветкой кода, кнопкой "прервать"
-- 👨‍🏫 **Менторы** — кастомные ассистенты с разными системными промптами
-- 🕓 **История чатов** с фильтрацией, закреплением и редактированием
-- 🌳 **Roadmap генератор** — дерево целей с анимированной отрисовкой на Vue Flow
-- 🔐 **Google авторизация** через Firebase
+### ✅ Implemented:
+- 🧠 **AI Chat** with animated typing, markdown, code highlighting, cancel button
+- 🧭 **Mentors** — custom assistants with unique system prompts
+- 🕓 **Chat History** — filtering, editing, pinning
+- 🌱 **Roadmap Generator** — animated Vue Flow tree builder for goals & tasks
+- 🔐 **Google Authentication** via Firebase
 
-### 🔨 В процессе:
-- 🧱 **No-code генерация интерфейсов**: из текста → дизайн → код → хостинг
-- 👤 **Профиль пользователя** с настройками и мета-информацией
-- 💰 **Собственная валюта/токен**, реферальная система, подписки
-- 🌐 **Экосистема AI-инструментов** внутри одной платформы
+### 🔧 In Progress:
+- 🔨 **No-code UI Generator** — describe → design → code → auto-host
+- 👤 **User Profile** — with preferences and basic stats
+- 💰 **Custom Token / Virtual Currency** — for subscriptions and rewards
+- 🌐 **Internal Ecosystem** — tools, referrals, and user-level features
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [devise-ai.web.app](https://devise-ai.web.app)
+👉 [https://devise-ai.web.app](https://devise-ai.web.app)
 
 ---
 
-## 📌 Планы на будущее
+## 📌 Upcoming Plans
 
-- Интеграция платежей (Stripe / крипта)
-- Внутренний маркетплейс ассистентов
-- Продвинутый редактор prompt-инструкций
-- Мобильная адаптация (приоритет)
-
----
-
-## 🧠 Автор
-
-Разработка и идея — [@rus1kone](https://github.com/rus1kone)
+- Stripe or crypto-based payment integration
+- In-app mentor marketplace
+- Advanced prompt editor
+- Full mobile-first responsive UI
 
 ---
 
-## 📝 Лицензия
+## 🧠 Author
 
-Проект на стадии активной разработки. Лицензия будет добавлена позже.
+Built and maintained by [@rus1kone](https://github.com/rus1kone)
+
+---
+
+## 📝 License
+
+Project is under active development. License will be added later.
