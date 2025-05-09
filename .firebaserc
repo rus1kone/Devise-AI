@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "devise-webstudio"
+  },
+  "targets": {
+    "devise-webstudio": {
+      "hosting": {
+        "default": [
+          "devise-ai"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
